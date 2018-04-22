@@ -1,0 +1,117 @@
+body {
+    background: #f6f6f6;
+    font-family: "Josefin Sans", sans-serif;
+}
+
+.main {
+    margin: 0 auto;
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: flex-start;
+    vertical-align: top;
+    flex: 1;
+    overflow: auto;
+    scroll-behavior: smooth;
+}
+
+.nav {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    padding: 0;
+}
+
+.tile1 {
+
+    display: flex;
+    flex-direction: column;
+    width: 340px;
+    height: 300px;
+    padding: 20px;
+    background: white;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    margin: 20px;
+}
+
+.lorem {
+    color: gray;
+    font-size: 14px;
+    text-align: center;
+}
+
+.tile2 {
+
+    display: flex;
+    flex-direction: column;
+    width: 340px;
+    height: 300px;
+    padding: 20px;
+    background: white;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    margin: 20px;
+}
+
+.tile3 {
+
+    display: flex;
+    flex-direction: column;
+    width: 340px;
+    height: 300px;
+    padding: 20px;
+    background: white;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    margin: 20px;
+}
+
+.clear {
+    clear: both;
+}
+
+.tile4 {
+
+    display: flex;
+    flex-direction: column;
+    width: 340px;
+    height: 300px;
+    padding: 20px;
+    background: white;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    margin: 20px;
+}
+
+.tile5 {
+
+    display: flex;
+    flex-direction: column;
+    width: 340px;
+    height: 300px;
+    padding: 20px;
+    background: white;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    margin: 20px;
+}
+
+.tile6 {
+
+    display: flex;
+    flex-direction: column;
+    width: 340px;
+    height: 300px;
+    padding: 20px;
+    background: white;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    margin: 20px;
+}
